@@ -1,0 +1,3 @@
+Company_Id,Company_Name,Quarter1_Sale,Quarter2_Sale,Quarter3_Sale
+1,ABC,1000,2000,3000
+2,STF,1000,3000,NULL
